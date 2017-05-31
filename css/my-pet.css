@@ -1,14 +1,34 @@
-body{
-  text-align: center;
+        body {
+          text-align: center;
+        }
+
+        .container {
+          align-self: center;
+          text-align: center;
+          background-color: #c8f2bf;
+        }
+
+        h1 {
+          font-size: 40px;
+        }
+
+        .kitten-showing {
+          display: none;
+        }
+
+        img {
+          margin: 30px;
+          max-width: 50%;
+          height: auto;
+        }
+        /*padding: 20px;
 }
-h1{
-  font-size: 40px;
-}
+
 
 /*ul li {
   list-style: none;
 }*/
-
+        /*
 #pests {
   margin-left: 45%;
   width: 5%;
@@ -18,3 +38,4 @@ h1{
   margin-left: 45%;
   width: 5%;
 }
+*/
